@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Pikafood" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+    <style name="Theme.Pikafood" parent="Base.Theme.Pikafood">
+        <!-- Change primary color -->
+        <item name="colorPrimary">#FFA500</item>
+        <!-- Change primary dark color -->
+        <item name="colorPrimaryDark">#FFA500</item>
+        <!-- Change accent color -->
+        <item name="colorAccent">#FFA500</item>
+    </style>
+</resources>
